@@ -1,0 +1,11 @@
+﻿data/
+*.zip
+*.7z
+*.tar
+*.tif
+*.npy
+*.docx
+*.pdf
+__pycache__/
+*.pyc
+.env
